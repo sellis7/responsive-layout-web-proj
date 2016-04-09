@@ -7,6 +7,8 @@ while enrolled in 3 college-level courses, resulting in the choice to use "lorem
 The image choices, and over-all theme, are a reflection of personal interests and alluring subject matter, all  
 respectfully borrowed from the internet.
 
+View the project via GitHub-Pages [here](http://sellis7.github.io/responsive-layout-web-proj)  
+
 ##### Some of the general requirements satisfied:  
 * Liquid and adaptive layout techniques used through combination of  
   the "target / context = result" formula and media queries  
@@ -19,4 +21,3 @@ respectfully borrowed from the internet.
   * drop down/select
   * submit
 * Use of HTML5 semantic elements such as header, footer, aside, section, nav
- 
